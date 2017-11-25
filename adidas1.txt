@@ -1,0 +1,68 @@
+
+Available tags for placement Adidas_160x600 (6539566)
+Website: RTBDemand_Openx_banner
+Page: Adidas
+Position: default
+Dimensions: 160 x 600
+Ext. ID: p6539566
+
+
+
+Tag : JavaScript TAG (Standard)
+Tag description: Standard Javascript Tag with client side timestamp
+
+<!--JavaScript Tag // Tag for network 1737: RTBStar AdServer // Website: RTBDemand_Openx_banner // Page: Adidas // Placement: Adidas_160x600 (6539566) // created at: Nov 21, 2017 6:23:44 PM-->
+<script type="text/javascript"><!--
+document.write('<scr'+'ipt type="text/javascript" src="http://adserver.adtech.de/addyn/3.0/1737/6539566/0/154/ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1737/6539566/0/154/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1737/6539566/0/154/ADTECH;loc=300;grp=[group]" border="0" width="160" height="600"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+
+
+
+Available tags for placement Adidas_300x250 (6539567)
+Website: RTBDemand_Openx_banner
+Page: Adidas
+Position: default
+Dimensions: 300 x 250
+Ext. ID: p6539567
+
+
+
+Tag : JavaScript TAG (Standard)
+Tag description: Standard Javascript Tag with client side timestamp
+
+<!--JavaScript Tag // Tag for network 1737: RTBStar AdServer // Website: RTBDemand_Openx_banner // Page: Adidas // Placement: Adidas_300x250 (6539567) // created at: Nov 21, 2017 6:23:44 PM-->
+<script type="text/javascript"><!--
+document.write('<scr'+'ipt type="text/javascript" src="http://adserver.adtech.de/addyn/3.0/1737/6539567/0/170/ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1737/6539567/0/170/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1737/6539567/0/170/ADTECH;loc=300;grp=[group]" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+
+
+
+Available tags for placement Adidas_728x90 (6539565)
+Website: RTBDemand_Openx_banner
+Page: Adidas
+Position: default
+Dimensions: 728 x 90
+Ext. ID: p6539565
+
+
+
+Tag : JavaScript TAG (Standard)
+Tag description: Standard Javascript Tag with client side timestamp
+
+<!--JavaScript Tag // Tag for network 1737: RTBStar AdServer // Website: RTBDemand_Openx_banner // Page: Adidas // Placement: Adidas_728x90 (6539565) // created at: Nov 21, 2017 6:23:44 PM-->
+<script type="text/javascript"><!--
+document.write('<scr'+'ipt type="text/javascript" src="http://adserver.adtech.de/addyn/3.0/1737/6539565/0/225/ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1737/6539565/0/225/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1737/6539565/0/225/ADTECH;loc=300;grp=[group]" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+
+
